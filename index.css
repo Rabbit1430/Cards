@@ -1,0 +1,63 @@
+
+
+
+
+body {
+    background-color: #c6dcebdc;
+    width: 100%;
+    height: 100%;
+   
+    
+}
+@font-face {
+    font-family: 'Shrift';
+    src: url('Rubik-Regular.ttf');
+}
+
+.generator form{
+    display: flex;
+    flex-wrap: nowrap;
+    margin-left: 2%;
+    margin-top: 5%;
+    
+}
+
+.generator form > div{
+    margin-right: 1%;
+    
+}
+
+.word > div {
+    margin-bottom: 10%;
+    font-size: 20px;
+}
+
+input{
+    width: 500px;
+    margin-bottom: 3%;
+    height: 25px;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+
+.rs {
+    display: flex;
+    justify-content: center;
+    position: relative;
+    top: 50%;
+    
+}
+
+.ng {
+    display: none;
+}
+
+
+
+
+
+
+
